@@ -1,0 +1,29 @@
+{
+    "BowlingAgent": {
+        "checkpoints": [
+            {
+                "steps": 50004,
+                "file_path": "results\\bowling_run_401\\BowlingAgent\\BowlingAgent-50004.onnx",
+                "reward": 0.12380952636400859,
+                "creation_time": 1746416088.7827592,
+                "auxillary_file_paths": [
+                    "results\\bowling_run_401\\BowlingAgent\\BowlingAgent-50004.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 50004,
+            "file_path": "results\\bowling_run_401\\BowlingAgent.onnx",
+            "reward": 0.12380952636400859,
+            "creation_time": 1746416088.7827592,
+            "auxillary_file_paths": [
+                "results\\bowling_run_401\\BowlingAgent\\BowlingAgent-50004.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}
