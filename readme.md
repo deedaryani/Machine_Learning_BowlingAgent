@@ -92,7 +92,7 @@ From your terminal window (PowerShell or Bash), run:
 
 ```powershell
 # 1. Clone or navigate to the workspace folder
-cd "D:\201625668 Comp 342 Assignment 2\bowling_run_401\BowlingAgent"
+cd "YourFolder\Machine_Learning_BowlingAgent\bowling_run_401\BowlingAgent"
 
 # 2. Install the necessary machine learning engines
 pip install torch onnxruntime numpy
